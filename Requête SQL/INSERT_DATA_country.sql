@@ -1,14 +1,12 @@
 INSERT INTO book_projet.country (country_id, country)
- VALUES
- (0, 'fr'),
- (1, 'it'),
- (2, 'be'),
- (3, 'es'),
- (4, 'en'),
- (5, 'jpn'),
- (6, 'de'),
- (7, 'us'),
- (8, 'ru'),
- (9, 'cn'),
- (10, 'in'),
- (11, 'br');
+VALUES
+  (0, 'France'),
+  (1, 'Italie'),
+  (2, 'Belgique'),
+  (3, 'Espagne'),
+  (4, 'États-Unis'),
+  (5, 'Japon'),
+  (6, 'Allemagne'),
+  (7, 'Canada'),
+  (8, 'Brésil'),
+  (9, 'Royaume-Uni');
