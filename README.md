@@ -7,4 +7,5 @@
 2. Insertion des données dans la DB
 3. Requêtage sur la DB
 
-![ERR diagram](https://github.com/user-attachments/assets/d4f1ab2e-c6c0-4f1e-a1a8-f32b4dfc4bbb)
+![ERR diagram](https://github.com/user-attachments/assets/7e8091dd-6f70-427e-becd-da2eb8a38280)
+
