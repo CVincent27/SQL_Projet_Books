@@ -1,4 +1,4 @@
-# SQL_Projet_Books
+# 1er projet SQL
 ## Gestion d’une base de donnée d’une bibliothèque
 https://www.notion.so/Projet-SQL-17da4d16d1018014b124e1ea4476158d?pvs=4
 
